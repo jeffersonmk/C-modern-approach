@@ -495,3 +495,13 @@ The main goal of this repository is simple:
 Rather than treating the book as something to read from beginning to end, this repository serves as a practical record of the problems I solve while progressing through the language.
 
 Each chapter represents another step toward becoming more comfortable with C programming, from simple programs and expressions to pointers, memory management, data structures, low-level programming, and the standard library.
+
+## License
+
+The original code in this repository is licensed under the MIT License.
+
+The MIT License applies only to the original code and materials created for
+this repository. It does not apply to the book *C Programming: A Modern
+Approach*, by K. N. King, or to its original copyrighted materials.
+
+See the [LICENSE](LICENSE) file for the complete license.
